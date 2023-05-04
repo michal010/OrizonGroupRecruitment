@@ -1,2 +1,4 @@
-# OrizonGroupRecruitment
-Infinite runner with solid principles as recruitment task.
+# InifiniteRunner
+An infinite runner game with SOLID principles
+
+<img src="./InfiniteRunner.svg">
